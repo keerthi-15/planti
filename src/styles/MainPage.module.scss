@@ -1,0 +1,38 @@
+@import "./CommonVariables.scss";
+
+.mainPage {
+  font-family: $font-family;
+  margin-left: 25px;
+  .welcome {
+    display: inline;
+  }
+  .searchBar {
+    padding-left: 300px;
+    i {
+      position: absolute;
+      padding: 15px;
+    }
+  }
+  input {
+    border: none;
+    height: 25px;
+    width: 220px;
+    border-radius: 3px;
+    padding-left: 46px;
+  }
+  .imgIcon {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    height: 18px;
+    width: 18px;
+    padding: 5px;
+    background-color: white;
+    margin-bottom: -10px;
+  }
+  .cardAlign{
+    display:flex;
+    .cardAlignLeft{
+      padding-left: 40px;
+    }
+  }
+}

@@ -1,0 +1,8 @@
+@import './styles/CommonVariables.scss';
+
+.page {
+  background-color: $card-color;
+}
+.leftnavigation{
+  display: flex;
+}

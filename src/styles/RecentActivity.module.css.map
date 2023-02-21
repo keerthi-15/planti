@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAA;EACC,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;EACX,aAAa,EAAE,GAAG;EAClB,UAAU,EAAE,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC,CAAC,kBAAkB;EAC1C,OAAO,EAAE,GAAG;CACf;;AACD,AAAA,KAAK,CAAA;EACD,OAAO,EAAE,IAAI;CAChB;;AACD,AAAA,MAAM,CAAA;EACF,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "RecentActivity.module.scss"
+    ],
+    "names": [],
+    "file": "RecentActivity.module.css"
+}

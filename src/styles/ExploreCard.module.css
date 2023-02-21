@@ -1,0 +1,70 @@
+.card {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  height: 180px;
+  width: 570px;
+  padding: 15px;
+  opacity: 0.9;
+  background-image: url(../components/exploreCard.jpg);
+}
+
+.card .headings {
+  color: lawngreen;
+}
+
+.card Button {
+  font-family: fangsong;
+  background: white;
+  color: lawngreen;
+  border-radius: 10px;
+  border-color: white;
+  text-transform: none;
+}
+
+.card2 {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  height: 180px;
+  width: 280px;
+  padding: 15px;
+  opacity: 0.9;
+  background-image: url(../components/exploreCard2.jpg);
+}
+
+.card2 .headings {
+  color: saddlebrown;
+}
+
+.card2 .subheadings {
+  font-size: 10px;
+}
+
+.card2 .btn {
+  font-family: fangsong;
+  color: #000000;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.myListings {
+  font-family: fangsong;
+  color: #000000;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.myListings .viewAll {
+  float: right;
+  font-size: 12px;
+  color: #000000;
+  font-weight: 100;
+  margin-top: 6px;
+}
+
+.recentActivity {
+  margin-top: -1px;
+}
+/*# sourceMappingURL=ExploreCard.module.css.map */

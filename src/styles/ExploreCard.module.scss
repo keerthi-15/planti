@@ -1,0 +1,61 @@
+@import "./CommonVariables.scss";
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  height: 180px;
+  width: 570px;
+  padding: 15px;
+  opacity: 0.9;
+  background-image: url(../components/exploreCard.jpg);
+  .headings {
+    color: $lawngreen;
+  }
+  Button {
+    font-family: $font-family;
+    background: $background-color;
+    color: $lawngreen;
+    border-radius: 10px;
+    border-color: $background-color;
+    text-transform: none;
+  }
+}
+
+.card2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    height: 180px;
+    width: 280px;
+    padding: 15px;
+    opacity: 0.9;
+    background-image: url(../components/exploreCard2.jpg);
+    .headings {
+      color: $brown;
+    }
+    .subheadings{
+        font-size: 10px;
+      }
+    .btn {
+      font-family: $font-family;
+      color: $text-color;
+      font-size: 12px;
+      font-weight: bold;
+      padding-top: 20px;
+    }
+}
+.myListings{
+    font-family: $font-family;
+    color: $text-color;
+    font-weight: bold;
+    font-size: 22px;
+    .viewAll{
+        float:right;
+        font-size: 12px;
+        color: $text-color;
+        font-weight:100;
+        margin-top: 6px;
+    }
+}
+.recentActivity{
+    margin-top: -1px;
+}

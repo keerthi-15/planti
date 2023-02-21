@@ -1,0 +1,27 @@
+.card {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  text-align: center;
+  padding: 25px 15px;
+  height: 120px;
+  width: 165px;
+  background-image: url("../components/helpCenter.jpg");
+}
+
+.card .helpCenter {
+  font-weight: bold;
+  line-height: 15px;
+}
+
+.card .helpCenterDescription {
+  font-size: 13px;
+}
+
+.card .goToHelpCenter {
+  font-size: 12px;
+  font-weight: bold;
+  font-family: fangsong;
+  text-transform: none;
+}
+/*# sourceMappingURL=HelpCenter.module.css.map */

@@ -1,0 +1,33 @@
+@import "./CommonVariables.scss";
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  height: 150px;
+  width: 150px;
+  padding: 12px 15px 7px 15px;
+  display: inline-table;
+  text-align: center;
+  font-size: 12px;
+  .card1 {
+    height: 150px;
+    width: 150px;
+    list-style: none;
+    display: block;
+    background-image: url("../components/MyListingsCard1.png");
+  }
+  .card2 {
+    height: 150px;
+    width: 150px;
+    list-style: none;
+    display: block;
+    background-image: url("../components/MyListingsCard2.jpg");
+  }
+  .card3 {
+    height: 150px;
+    width: 150px;
+    list-style: none;
+    display: block;
+    background-image: url("../components/MyListingsCard1.png");
+  }
+}

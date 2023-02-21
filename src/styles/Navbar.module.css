@@ -1,0 +1,36 @@
+.card {
+  font-family: fangsong;
+  background-color: white;
+  width: 18%;
+  font-size: 15px;
+  padding-left: 2%;
+  height: 600px;
+}
+
+.card .coffee {
+  color: lawngreen;
+  height: 18px;
+  width: 18px;
+}
+
+.card .heading {
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 10px;
+  color: #000000;
+}
+
+.card .options {
+  padding: 0px;
+  line-height: 33px;
+}
+
+.card .options .img {
+  height: 13px;
+  width: 13px;
+}
+
+.card .settings {
+  font-weight: bold;
+}
+/*# sourceMappingURL=Navbar.module.css.map */

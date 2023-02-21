@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,KAAK,CAAC;EACJ,gBAAgB,ECDL,OAAkB;CDE9B;;AACD,AAAA,eAAe,CAAA;EACb,OAAO,EAAE,IAAI;CACd",
+    "sources": [
+        "App.scss",
+        "styles/CommonVariables.scss"
+    ],
+    "names": [],
+    "file": "App.css"
+}

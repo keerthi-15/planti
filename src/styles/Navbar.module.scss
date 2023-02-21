@@ -1,0 +1,32 @@
+@import "./CommonVariables.scss";
+
+.card {
+  font-family: $font-family;
+  background-color: $background-color;
+  width: 18%;
+  font-size: 15px;
+  padding-left: 2%;
+  height: 600px;
+  .coffee{
+    color: $lawngreen;
+    height: 18px;
+    width: 18px;
+  }
+  .heading {
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 10px;
+    color: $text-color;
+  }
+  .options {
+    padding: 0px;
+    line-height: 33px;
+    .img{
+      height: 13px;
+      width: 13px;
+    }
+  }
+  .settings{
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,47 @@
+.mainPage {
+  font-family: fangsong;
+  margin-left: 25px;
+}
+
+.mainPage .welcome {
+  display: inline;
+}
+
+.mainPage .searchBar {
+  padding-left: 300px;
+}
+
+.mainPage .searchBar i {
+  position: absolute;
+  padding: 15px;
+}
+
+.mainPage input {
+  border: none;
+  height: 25px;
+  width: 220px;
+  border-radius: 3px;
+  padding-left: 46px;
+}
+
+.mainPage .imgIcon {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  height: 18px;
+  width: 18px;
+  padding: 5px;
+  background-color: white;
+  margin-bottom: -10px;
+}
+
+.mainPage .cardAlign {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.mainPage .cardAlign .cardAlignLeft {
+  padding-left: 40px;
+}
+/*# sourceMappingURL=MainPage.module.css.map */
